@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0-ea (Oracle Corporation)
+Main-Class: eu.himeros.transcoder.TransGamera
+

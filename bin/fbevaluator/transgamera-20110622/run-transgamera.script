@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar -Dfile.encoding=UTF-8 transgamera.jar /dev/stdin

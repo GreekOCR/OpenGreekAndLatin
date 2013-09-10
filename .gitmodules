@@ -1,0 +1,13 @@
+[submodule "bin/rigaudon"]
+	path = bin/rigaudon
+	url = https://fbaumgardt@github.com/OpenPhilology/rigaudon.git
+[submodule "bin/cophiproofreader"]
+	path = bin/cophiproofreader
+	url = https://fbaumgardt@github.com/OpenPhilology/cophiproofreader.git
+[submodule "bin/hocrinfoaggregator"]
+	path = bin/hocrinfoaggregator
+	url = https://fbaumgardt@github.com/OpenPhilology/hocrinfoaggregator.git
+[submodule "db/exist"]
+	path = db/exist
+	url = https://github.com/eXist-db/exist.git
+	branch = eXist-1.4.x
